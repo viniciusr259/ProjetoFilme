@@ -1,0 +1,36 @@
+#SeguraMenu{
+  width: 100%;
+  background-color: black;
+  height: 100px;
+}
+#Parte1{
+  width: 33%;
+  height: 100px;
+  float: left;
+  background-color: yellow;
+}
+#Parte2{
+  width: 34%;
+  height: 100px;
+  float: left;
+  background-color: red;
+}
+#Parte3{
+  width: 33%;
+  height: 100px;
+  float: left;
+  background-color: green;
+}
+#TituloPag{
+  padding-top: 15px;
+  font-size: 22px;
+  color: white;
+  margin-left:auto;
+  margin-right: auto;
+  text-align: center;
+  float: left;
+}
+#Login{
+  float: left;
+  margin-left: 85%;
+}
